@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# luckystar-window
 
-## Getting Started
+My attempt at recreating this gif I like
 
-First, run the development server:
+![a](https://c.tenor.com/pi7INFuxyD4AAAAC/tenor.gif)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This is a (very) simple Tauri app, with the frontend written in NextJS with Chakra UI.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Enjoy.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Screenshots
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![a](https://s.mikandev.com/r/T8quES.png)
 
-## Learn More
+## Does it do anything?
 
-To learn more about Next.js, take a look at the following resources:
+No. The `main.rs` file hasn't been modified in any way. this is basically just an HTML file in a window.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Is this an 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![a](https://c.tenor.com/P25kOmeH3qQAAAAC/tenor.gif)
 
-## Deploy on Vercel
+## ?
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- No, it is not an
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![a](https://c.tenor.com/P25kOmeH3qQAAAAC/tenor.gif)
+
+.
