@@ -4,7 +4,7 @@
         "beforeBuildCommand": "bun run build",
         "beforeDevCommand": "bun dev",
         "devPath": "http://localhost:3000",
-        "distDir": ".../out"
+        "distDir": "../out"
     },
     "package": {
         "productName": "luckystar-window",
@@ -29,7 +29,7 @@
                 "icons/icon.icns",
                 "icons/icon.ico"
             ],
-            "identifier": "com.tauri.dev",
+            "identifier": "com.mikandev.luckystar-window",
             "longDescription": "",
             "macOS": {
                 "entitlements": null,
